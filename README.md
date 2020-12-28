@@ -1,5 +1,5 @@
 # vex-build
-Build a VEX C++ Pros V5 + Cortex project in Github Actions! Fork of schineaj23/vex-build
+Build a VEX C++ Pros V5/Cortex project in Github Actions! Fork of schineaj23/vex-build
 
 ## Inputs
 
