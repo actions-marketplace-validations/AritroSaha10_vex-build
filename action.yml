@@ -1,4 +1,4 @@
-name: 'VEX Build'
+name: 'VEX Build v2'
 description: 'Build a VEX C++ Pro project. Fork of schineaj23/vex-build'
 branding:
   icon: 'terminal'  
