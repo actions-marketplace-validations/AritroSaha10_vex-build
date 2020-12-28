@@ -1,5 +1,5 @@
 # vex-build
-Build a VEX C++ Pro project in Github Actions!
+Build a VEX C++ Pro project in Github Actions! Fork of schineaj23/vex-build
 
 ## Inputs
 
@@ -8,7 +8,7 @@ The path to the project makefile. Default `.`.
 
 ## Example usage
 ```
-uses: schineaj23/vex-build@v1
+uses: AritroSaha10/vex-build@v1.1
 with:
   path: projects/mainproject/
 ```
