@@ -1,5 +1,5 @@
-name: 'VEX Build v2'
-description: 'Build a VEX C++ Pro project. Fork of schineaj23/vex-build'
+name: 'VEX V5/Cortex Build'
+description: 'Build a VEX C++ Pro V5/Cortex project. Fork of schineaj23/vex-build'
 branding:
   icon: 'terminal'  
   color: 'gray-dark'
